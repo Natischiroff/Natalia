@@ -1,11 +1,13 @@
-body{ 
+.body{ 
 background-color : rgba(146, 49, 146, 0.671),
 }
 
-h1 {
+.h1 {
     font-family: Georgia, 'Times New Roman', Times, serif;
     text-align: center;
 }
 
-
+.imagem{
+    width: 200px;
+}
 
