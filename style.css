@@ -1,3 +1,10 @@
 body{ 
 background-color : rgba(128, 0, 128, 0.589),
 }
+
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+
