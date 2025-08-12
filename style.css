@@ -7,8 +7,19 @@ background-color : rgba(146, 49, 146, 0.671),
     text-align: center;
 }
 
-.imagem{
-    width: 50px;
+
+    img {
+  width: 190px; 
+  height: auto; 
+  border-radius: 10px; 
+  object-fit: cover; 
+  display: inline-block;
+}
+
+ img {
+    width: 200px;
+   height: 200px;
+   object-fit: cover;
     
    
 }
